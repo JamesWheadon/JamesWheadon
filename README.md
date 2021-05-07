@@ -2,7 +2,7 @@
 
 I'm James, an engineering graduate who specialised in information and control engineering, now attending a full-stack web developer bootcamp with futureproof.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesWheadon&layout=compact&theme=algolia))](https://github.com/JamesWheadon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesWheadon&layout=compact&theme=algolia)](https://github.com/JamesWheadon/github-readme-stats)
 <!--
 **JamesWheadon/JamesWheadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
